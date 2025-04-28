@@ -1,0 +1,30 @@
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.exe.config
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.exe
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.pdb
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.AssemblyReference.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.Form1.resources
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.Properties.Resources.resources
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.GenerateResource.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.CoreCompileInputs.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.exe
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.pdb
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.exe.config
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.exe
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.pdb
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.AssemblyReference.cache
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.Form1.resources
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.Properties.Resources.resources
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.GenerateResource.cache
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.exe
+C:\Users\ucenik\OneDrive - CARNET\Desktop\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.pdb
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.exe.config
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.exe
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\bin\Debug\WindowsFormsAppTCPKlijent.pdb
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.AssemblyReference.cache
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.Form1.resources
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.Properties.Resources.resources
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.GenerateResource.cache
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.csproj.CoreCompileInputs.cache
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.exe
+C:\Users\38595\Desktop\TCP chatbot\tcp\WindowsFormsAppTCPKlijent\WindowsFormsAppTCPKlijent\obj\Debug\WindowsFormsAppTCPKlijent.pdb

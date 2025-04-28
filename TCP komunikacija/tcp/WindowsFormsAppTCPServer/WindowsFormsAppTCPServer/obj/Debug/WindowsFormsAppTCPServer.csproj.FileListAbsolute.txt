@@ -1,0 +1,20 @@
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\bin\Debug\WindowsFormsAppTCPServer.exe.config
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\bin\Debug\WindowsFormsAppTCPServer.exe
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\bin\Debug\WindowsFormsAppTCPServer.pdb
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.csproj.AssemblyReference.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.Form1.resources
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.Properties.Resources.resources
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.csproj.GenerateResource.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.csproj.CoreCompileInputs.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.exe
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.pdb
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\bin\Debug\WindowsFormsAppTCPServer.exe.config
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\bin\Debug\WindowsFormsAppTCPServer.exe
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\bin\Debug\WindowsFormsAppTCPServer.pdb
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.csproj.AssemblyReference.cache
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.Form1.resources
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.Properties.Resources.resources
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.csproj.GenerateResource.cache
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.exe
+C:\Users\38595\Desktop\TCP komunikacija\tcp\WindowsFormsAppTCPServer\WindowsFormsAppTCPServer\obj\Debug\WindowsFormsAppTCPServer.pdb
