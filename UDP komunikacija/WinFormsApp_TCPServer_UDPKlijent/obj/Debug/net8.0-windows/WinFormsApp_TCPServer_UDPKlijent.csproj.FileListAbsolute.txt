@@ -1,0 +1,16 @@
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\bin\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.exe
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\bin\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.deps.json
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\bin\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.runtimeconfig.json
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\bin\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.dll
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\bin\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.pdb
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.Form1.resources
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.csproj.GenerateResource.cache
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.AssemblyInfoInputs.cache
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.AssemblyInfo.cs
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.csproj.CoreCompileInputs.cache
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.dll
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\refint\WinFormsApp_TCPServer_UDPKlijent.dll
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.pdb
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\WinFormsApp_TCPServer_UDPKlijent.genruntimeconfig.cache
+D:\3.rm Rafael Simunic\tcp udp app\WinFormsApp_TCPServer_UDPKlijent\obj\Debug\net8.0-windows\ref\WinFormsApp_TCPServer_UDPKlijent.dll
