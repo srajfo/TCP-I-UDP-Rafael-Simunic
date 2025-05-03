@@ -1,0 +1,10 @@
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\bin\Debug\ChatClient1.exe.config
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\bin\Debug\ChatClient1.exe
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\bin\Debug\ChatClient1.pdb
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\obj\Debug\ChatClient1.csproj.AssemblyReference.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\obj\Debug\ChatClient1.Form1.resources
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\obj\Debug\ChatClient1.Properties.Resources.resources
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\obj\Debug\ChatClient1.csproj.GenerateResource.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\obj\Debug\ChatClient1.csproj.CoreCompileInputs.cache
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\obj\Debug\ChatClient1.exe
+C:\programeranje projekti i ucenje\objektno orientiranje programeranje\serverCudaKlijenti\ChatClient1\ChatClient1\obj\Debug\ChatClient1.pdb
