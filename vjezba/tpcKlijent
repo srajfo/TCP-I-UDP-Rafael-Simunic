@@ -14,6 +14,7 @@ namespace vjezbadrugistudio
 {
     public partial class Form1 : Form
     {
+        string ID = "1";
         public Form1()
         {
             InitializeComponent();
@@ -36,7 +37,8 @@ namespace vjezbadrugistudio
                 {
                     client.Connect(IP_adresa, PORT);
                     NetworkStream stream = client.GetStream();
-                    byte[] poruka = Encoding.UTF8.GetBytes(message);
+                    string kombinirano = ID + "|" + message;
+                    byte[] poruka = Encoding.UTF8.GetBytes(kombinirano);
                     stream.Write(poruka,0,poruka.Length);
 
                     byte[] buffer = new byte[1024];
