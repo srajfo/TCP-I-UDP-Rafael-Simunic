@@ -1,0 +1,58 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Net.Sockets;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace vjezbadrugistudio
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void bT_salji_Click(object sender, EventArgs e)
+        {
+            Thread clientThread = new Thread(PosaljiPoruku);
+            clientThread.IsBackground = true;
+            clientThread.Start();        
+        }
+        private void PosaljiPoruku()
+        {
+            try
+            {
+                string message = tB_poruka.Text;
+                string IP_adresa = tB_IP_adresa.Text;
+                int PORT = int.Parse(tB_Port.Text);
+                using (TcpClient client = new TcpClient())
+                {
+                    client.Connect(IP_adresa, PORT);
+                    NetworkStream stream = client.GetStream();
+                    byte[] poruka = Encoding.UTF8.GetBytes(message);
+                    stream.Write(poruka,0,poruka.Length);
+
+                    byte[] buffer = new byte[1024];
+                    int bytesRead = stream.Read(buffer, 0, buffer.Length);
+                    string vracenaPoruka= Encoding.UTF8.GetString(buffer,0,bytesRead);
+
+                    Invoke(new Action(() => lB_klijent_poruke.Items.Add("Server: " + vracenaPoruka)));
+
+                    stream.Close();
+                    client.Close();
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+        }
+    }
+}
