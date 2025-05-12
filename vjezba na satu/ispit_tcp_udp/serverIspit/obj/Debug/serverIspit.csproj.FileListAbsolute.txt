@@ -1,0 +1,10 @@
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\bin\Debug\serverIspit.exe.config
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\bin\Debug\serverIspit.exe
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\bin\Debug\serverIspit.pdb
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\obj\Debug\serverIspit.csproj.AssemblyReference.cache
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\obj\Debug\serverIspit.Form1.resources
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\obj\Debug\serverIspit.Properties.Resources.resources
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\obj\Debug\serverIspit.csproj.GenerateResource.cache
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\obj\Debug\serverIspit.csproj.CoreCompileInputs.cache
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\obj\Debug\serverIspit.exe
+D:\3.rm Rafael Simunic\ispit_tcp_udp\serverIspit\obj\Debug\serverIspit.pdb
